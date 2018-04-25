@@ -10,3 +10,4 @@ This video review lesson covers many of the concepts that you've learned about i
 - [Method provided by `belongs_to`](http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html#method-i-belongs_to)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/activerecord-associations-video-review'>ActiveRecord Associations Video Review</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG ActiveRecord Associations- Overview</p>
